@@ -12,3 +12,6 @@ Use `Lax-Wendroff` scheme and `Warming-Beam` scheme to solve the linear convetio
 
 ## HW5
 Use numerical method to calculate the maximum CFL number with which `Jameson` scheme is stable according to von Neumann's stability condition.
+
+## HW6
+Use `Rusanov` scheme and `Jameson` scheme to solve the 1D shock tube problem (Riemann problem), results compared to exact solution.
