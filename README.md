@@ -15,3 +15,6 @@ Use numerical method to calculate the maximum CFL number with which `Jameson` sc
 
 ## HW6
 Use `Rusanov` scheme and `Jameson` scheme to solve the 1D shock tube problem (Riemann problem), results compared to exact solution.
+
+## HW7
+Use control volume method based on zeroth order reconstruction and `Roe` approximator for Riemann problem to solve SOD shock tube problem, and compare the result with and without entropy fix for expansion shock tube problem.
