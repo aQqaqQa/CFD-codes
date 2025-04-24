@@ -18,3 +18,6 @@ Use `Rusanov` scheme and `Jameson` scheme to solve the 1D shock tube problem (Ri
 
 ## HW7
 Use control volume method based on zeroth order reconstruction and `Roe` approximator for Riemann problem to solve SOD shock tube problem, and compare the result with and without entropy fix for expansion shock tube problem.
+
+## HW8
+Use 3rd Order TVD Runge-Kutta method to calculate SOD shock tube problem, and compare the result of 1st order finite volume method.
